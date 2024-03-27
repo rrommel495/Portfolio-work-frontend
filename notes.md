@@ -31,3 +31,15 @@
 3. Re-adjusted the grid layout
 4. started putting info
 5. learned how to put grid within the grid
+6. uploaded this to github
+
+![alt text](image-3.png)
+
+# Week 2
+
+## March 27
+
+1. Decided on a "Web" developer theme
+2. Changed the background, and font
+3. added the other sections
+4. edited the left nav
