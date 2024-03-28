@@ -13,7 +13,7 @@
 3. learned gradiant backgrounds
 4. put comment segments in codes
 
-![alt text](image-2.png)
+![alt text](./note_images/image-2.png)
 
 ## March 23:
 
@@ -22,7 +22,7 @@
 3. preparing the navigation buttons
 4. making this documentation
 
-![alt text](image-1.png)
+![alt text](./note_images/image-1.png)
 
 ## March 24:
 
@@ -33,7 +33,7 @@
 5. learned how to put grid within the grid
 6. uploaded this to github
 
-![alt text](image-3.png)
+![alt text](./note_images/image-3.png)
 
 # Week 2
 
@@ -43,3 +43,13 @@
 2. Changed the background, and font
 3. added the other sections
 4. edited the left nav
+
+![alt text](./note_images/image-4.png)
+
+## March 28
+
+1. made some adjustments on the Skills section
+2. Changed font color to make it easier to understand
+3. Started working on projects
+
+![alt text](./note_images/image-5.png)

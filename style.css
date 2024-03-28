@@ -219,6 +219,7 @@ float: left;
   font-size: 20px;
     grid-column: 2;
   grid-row: row;
+  color: #FEFE33;
 }
 
 
@@ -227,15 +228,18 @@ float: left;
 .icongrid{
   display: table;
  text-align: center;
- color: yellow;
+ color: #FEFE33;
  
  width: 100%;
+ font-weight:bolder;
  
 }
 
 .icongrid img{
-  height: 100px;
+  height: 100%;
   width: 100px;
+  border-radius: 100px;
+  border: 1px solid wheat;
 }
 
 
